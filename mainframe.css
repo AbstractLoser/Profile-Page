@@ -302,8 +302,8 @@ body {
     left: 16px;
     font-family: Josefin Sans;
     font-weight: Regular;
-    font-size: 20px;
+    font-size: 19px;
     opacity: 1;
     text-align: left;
-    overflow: scroll;
+    overflow: hidden;
 }
