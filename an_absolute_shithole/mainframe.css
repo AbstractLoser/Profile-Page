@@ -1,0 +1,309 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 14px;
+    background-color: rgb(25, 25, 25);
+}
+
+.container {
+    font-family: arial;
+    font-size: 24px;
+    margin: 0px auto;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.v2_2 {
+    width: 749px;
+    height: 445px;
+    background: rgba(35, 35, 35, 1);
+    opacity: 1;
+    position: absolute;
+    display: flex;
+    top: 15%;
+    margin: 0% auto;
+    justify-content: center;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 1);
+    overflow: hidden;
+}
+
+.v2_3 {
+    width: 749px;
+    height: 41px;
+    background: rgba(35, 35, 35, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    overflow: hidden;
+}
+
+.v2_27 {
+    text-align: center;
+    width: 498px;
+    height: 29px;
+    background: rgba(15, 15, 15, 1);
+    opacity: 1;
+    position: absolute;
+    top: 6px;
+    left: 10px;
+    font-family: Josefin Sans;
+    font-weight: Regular;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    overflow: hidden;
+}
+
+.v6_10 {
+    width: 293px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: -2px;
+    left: 3px;
+    font-family: Josefin Sans;
+    font-weight: Regular;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+}
+
+.v2_29 {
+    width: 224px;
+    height: 29px;
+    background: rgba(15, 15, 15, 1);
+    opacity: 1;
+    position: absolute;
+    top: 6px;
+    left: 515px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    overflow: hidden;
+}
+
+.v6_2 {
+    width: 63px;
+    height: 21px;
+    background: rgba(35, 35, 35, 1);
+    opacity: 1;
+    position: absolute;
+    top: 4px;
+    left: 7px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    overflow: hidden;
+}
+
+.v6_14 {
+    width: 26px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 5px;
+    left: 19px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 9px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v6_8 {
+    width: 63px;
+    height: 21px;
+    background: rgba(35, 35, 35, 1);
+    opacity: 1;
+    position: absolute;
+    top: 4px;
+    left: 80px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    overflow: hidden;
+}
+
+.v6_15 {
+    width: 41px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 5px;
+    left: 11px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 9px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v6_9 {
+    width: 63px;
+    height: 21px;
+    background: rgba(35, 35, 35, 1);
+    opacity: 1;
+    position: absolute;
+    top: 4px;
+    left: 153px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    overflow: hidden;
+}
+
+.v6_16 {
+    width: 57px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 5px;
+    left: 3px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 9px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v2_13 {
+    width: 241px;
+    height: 394px;
+    background: rgba(15, 15, 15, 1);
+    opacity: 1;
+    position: absolute;
+    top: 41px;
+    left: 10px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    overflow: hidden;
+}
+
+.v5_3 {
+    width: 202px;
+    height: 202px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 21px;
+    left: 20px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    overflow: hidden;
+}
+
+.v5_4 {
+    width: 202px;
+    height: 202px;
+    background: url("Images/Depression.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.v5_5 {
+    width: 202px;
+    height: 62px;
+    background: rgba(35, 35, 35, 1);
+    opacity: 1;
+    position: absolute;
+    top: 236px;
+    left: 20px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    overflow: hidden;
+}
+
+.v5_8 {
+    width: 135px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 13px;
+    left: 34px;
+    font-family: Josefin Sans;
+    font-weight: Regular;
+    font-size: 40px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v5_6 {
+    width: 202px;
+    height: 62px;
+    background: rgba(35, 35, 35, 1);
+    opacity: 1;
+    position: absolute;
+    top: 311px;
+    left: 20px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+    overflow: hidden;
+}
+
+.v5_9 {
+    width: 148px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 13px;
+    left: 27px;
+    font-family: Josefin Sans;
+    font-weight: Regular;
+    font-size: 40px;
+    opacity: 1;
+    text-align: center;
+}
+
+.v2_14 {
+    width: 478px;
+    height: 394px;
+    background: rgba(15, 15, 15, 1);
+    opacity: 1;
+    position: absolute;
+    top: 41px;
+    left: 261px;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+
+.v6_18 {
+    width: 445px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 22px;
+    left: 16px;
+    font-family: Josefin Sans;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+    overflow: scroll;
+}
